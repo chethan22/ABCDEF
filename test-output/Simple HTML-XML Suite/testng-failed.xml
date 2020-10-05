@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Simple HTML-XML Suite]">
+  <test thread-count="5" name="createItem(failed)">
+    <classes>
+      <class name="TestScripts.CreateItem">
+        <methods>
+          <include name="endsession"/>
+          <include name="setbaseurl"/>
+          <include name="VerifyItem"/>
+        </methods>
+      </class> <!-- TestScripts.CreateItem -->
+    </classes>
+  </test> <!-- createItem(failed) -->
+</suite> <!-- Failed suite [Simple HTML-XML Suite] -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+    <line>
+      <![CDATA[Item saved successfully]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="152396" started-at="2020-10-05T09:12:18Z" finished-at="2020-10-05T09:14:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="152396" started-at="2020-10-05T09:12:18Z" finished-at="2020-10-05T09:14:51Z">
+      <class name="TestScripts.BatchAttributeTarget">
+        <test-method status="PASS" signature="setbaseurl()[pri:0, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="setbaseurl" is-config="true" duration-ms="17664" started-at="2020-10-05T09:12:18Z" finished-at="2020-10-05T09:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setbaseurl -->
+        <test-method status="PASS" signature="ReadLogin()[pri:0, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="ReadLogin" duration-ms="5102" started-at="2020-10-05T09:12:36Z" finished-at="2020-10-05T09:12:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadLogin -->
+        <test-method status="PASS" signature="createAttributeGroup()[pri:1, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="createAttributeGroup" duration-ms="11408" started-at="2020-10-05T09:12:41Z" finished-at="2020-10-05T09:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAttributeGroup -->
+        <test-method status="PASS" signature="createItem()[pri:2, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="createItem" duration-ms="11322" started-at="2020-10-05T09:12:53Z" finished-at="2020-10-05T09:13:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Item saved successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createItem -->
+        <test-method status="PASS" signature="createRecipe()[pri:3, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="createRecipe" duration-ms="24239" started-at="2020-10-05T09:13:04Z" finished-at="2020-10-05T09:13:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRecipe -->
+        <test-method status="PASS" signature="createParameter()[pri:4, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="createParameter" duration-ms="56075" started-at="2020-10-05T09:13:28Z" finished-at="2020-10-05T09:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createParameter -->
+        <test-method status="PASS" signature="createbatch()[pri:5, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="createbatch" duration-ms="15234" started-at="2020-10-05T09:14:24Z" finished-at="2020-10-05T09:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createbatch -->
+        <test-method status="PASS" signature="batchAttributeverify()[pri:6, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="batchAttributeverify" duration-ms="7828" started-at="2020-10-05T09:14:40Z" finished-at="2020-10-05T09:14:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- batchAttributeverify -->
+        <test-method status="PASS" signature="delete()[pri:9, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="delete" duration-ms="1537" started-at="2020-10-05T09:14:47Z" finished-at="2020-10-05T09:14:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete -->
+        <test-method status="PASS" signature="endsession()[pri:0, instance:TestScripts.BatchAttributeTarget@3e6fa38a]" name="endsession" is-config="true" duration-ms="1723" started-at="2020-10-05T09:14:49Z" finished-at="2020-10-05T09:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsession -->
+      </class> <!-- TestScripts.BatchAttributeTarget -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

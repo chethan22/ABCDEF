@@ -1,0 +1,2 @@
+[0916/125640.224:ERROR:file_io_win.cc(162)] CreateFile C:\Users\kusumaht\AppData\Local\Temp\scoped_dir10912_1290552847\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0923/124138.981:ERROR:file_io_win.cc(162)] CreateFile C:\Users\kusumaht\AppData\Local\Temp\scoped_dir5520_641356382\Crashpad\settings.dat: The system cannot find the file specified. (0x2)

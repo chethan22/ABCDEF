@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Simple HTML-XML Suite">
+   <!--  dd-->
+   <test name = "createItem">
+      <classes>
+        <class name = "TestScripts.CreateItem" /> 
+         
+      </classes>
+    </test>
+        
+    <test name="updateItem">
+	 <classes>
+	    <class name="TestScripts.UpdateItem"/>
+	 </classes>
+   </test>
+      
+   <!--   <test name="Writeexcel">
+	 <classes>
+	    <class name="Common.EditWriteExcel" />
+	 </classes>
+   </test> 
+   
+  <test name="createTag">
+	 <classes>
+	    <class name="TestScripts.CreateTag" />
+	 </classes>
+   </test>
+  
+   <test name="UpdateTag">
+	 <classes>
+	    <class name="TestScripts.UpdateTag" />
+	 </classes>
+   </test>  
+    <test name="CreateAttribute">
+	 <classes>
+	    <class name="TestScripts.CreateAttribute" />
+	 </classes>
+   </test>
+   
+   <test name="UpdateAttribute">
+	 <classes>
+	    <class name="TestScripts.UpdateAttribute" />
+	 </classes>
+   </test> 
+   <test name="CreateParameter">
+	 <classes>
+	    <class name="TestScripts.CreateParameter" />
+	 </classes>
+   </test>
+   
+   <test name="Updateparameter">
+	 <classes>
+	    <class name="TestScripts.UpdateParameter" />
+	 </classes>
+   </test> -->
+   
+</suite>
